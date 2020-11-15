@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/imshivang03/assignment/go-todo-restapi/app/model"
+	"github.com/imshivang03/Assignment3/To_Do/app/model"
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
 )
